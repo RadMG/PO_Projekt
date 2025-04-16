@@ -10,4 +10,4 @@ Ogólny zamysł logiki kalkulatora opiera się na wykorzystaniu metody *void cal
 
 
 ## Interfejs graficzny
-Interfejs graficzny podzielony jest na panel numeryczny z kropką do wpisywania liczb, panel z operacjami, wyświetlacz QLCD do wyświetlania wprowadzanych numerów oraz wyników operacji, wyświetlacz QLabel wyświetlający symbol danej operacji, panel konwersji liczbowej do konwersji liczby na wyświetlaczu do systemu binarnego/heksadecymalnego oraz pasek menu z informacjami o autorze.
+Interfejs graficzny podzielony jest na panel numeryczny z kropką do wpisywania liczb, panel z operacjami, wyświetlacz QLCD do wyświetlania wprowadzanych numerów oraz wyników operacji, wyświetlacz QLabel wyświetlający symbol danej operacji, oraz pasek menu z informacjami o autorze.
